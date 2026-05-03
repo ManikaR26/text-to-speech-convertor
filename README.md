@@ -1,2 +1,3 @@
-# Text-to-Speech-Convertor-
-This project is a text to speech convertor created using HTML,CSS,JAVASCRIPT. It is used for converting written text into spoken audio .  This tool offers seamless integration, customizable voice options, and easy deployment for various applications.
+**Text-to-Speech Converter**
+Developed a web application using HTML, CSS, and JavaScript to convert text into speech using the Web Speech API. Implemented features like voice selection and playback controls with a simple and user-friendly interface.
+
